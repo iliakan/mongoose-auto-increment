@@ -11,8 +11,8 @@
   },
   "devDependencies": {
     "async": "*",
-    "chai": "*",
-    "mocha": "*",
+    "chai": "^4.5.0",
+    "mocha": "^10.7.3",
     "mongoose": "^8"
   },
   "keywords": [
