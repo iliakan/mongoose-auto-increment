@@ -9,14 +9,11 @@
   "dependencies": {
     "extend": "^3.0.0"
   },
-  "peerDependencies": {
-    "mongoose": "^6"
-  },
   "devDependencies": {
     "async": "*",
     "chai": "*",
     "mocha": "*",
-    "mongoose": "^6"
+    "mongoose": "^8"
   },
   "keywords": [
     "mongoose",
